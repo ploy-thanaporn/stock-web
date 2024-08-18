@@ -152,7 +152,6 @@ const MainProduct = () => {
           <MdOutlineAdd className="mr-2" /> Create
         </button>
       </div>
-
       {openModal && (
         <Modal
           open={openModal}
