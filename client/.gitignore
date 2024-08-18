@@ -1,4 +1,3 @@
-gitignore
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -36,6 +35,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-client/.next/cache/webpack/client-production/
-client/.next/cache/webpack/server-production/
-client/node_modules/@next/swc-darwin-arm64/
+.vercel
